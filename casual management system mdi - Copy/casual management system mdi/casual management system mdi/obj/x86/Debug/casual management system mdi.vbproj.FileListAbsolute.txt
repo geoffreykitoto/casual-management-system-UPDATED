@@ -1,0 +1,83 @@
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.xml
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.Resources.resources
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.exe
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.xml
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.mdi.resources
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.login.resources
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.casual.resources
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.shift.resources
+C:\Users\KItoto\Desktop\VB.NET\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.payroll.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe.config
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.xml
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\mysql.data.dll
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.mdi.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.login.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.casual.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.payroll.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.shift.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.Resources.resources
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.vbproj.GenerateResource.Cache
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.exe
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.xml
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.vbprojResolveAssemblyReference.cache
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.Designer.vb
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xsc
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xsd
+C:\Users\KItoto\Desktop\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xss
+D:\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe.config
+D:\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.Designer.vb
+D:\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xsc
+D:\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xsd
+D:\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xss
+D:\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe
+D:\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.pdb
+D:\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.xml
+D:\casual management system mdi\casual management system mdi\bin\Debug\mysql.data.dll
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.vbprojResolveAssemblyReference.cache
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.FmSplash.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.mdi.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.login.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.casual.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.payroll.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.shift.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.Resources.resources
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.vbproj.GenerateResource.Cache
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.exe
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.xml
+D:\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.Designer.vb
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xsc
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xsd
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casualdatabaseDataSet.xss
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe.config
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.exe
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\casual management system mdi.xml
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\mysql.data.dll
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.vbprojResolveAssemblyReference.cache
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.FmSplash.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.mdi.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.login.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.casual.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.payroll.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.shift.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.Resources.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.vbproj.GenerateResource.Cache
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.exe
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.xml
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual management system mdi.pdb
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.rptAttendance.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\RdlCompile.cache
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.rptCasual.resources
+C:\Users\KItoto\Desktop\casual management system mdi - Copy\casual management system mdi\casual management system mdi\obj\x86\Debug\casual_management_system_mdi.rptPayroll.resources

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+casual management system mdi
+</name>
+</assembly>
+<members>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.attendancetableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.casualDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.logintableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.payrolltDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.attendancetableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.casualRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.logintableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.payrolltRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.attendancetableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.casualRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.logintableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSet.payrolltRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.attendancetableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.casualTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.logintableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.payrolltTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(casual_management_system_mdi.casualdatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(casual_management_system_mdi.casualdatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(casual_management_system_mdi.casualdatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(casual_management_system_mdi.casualdatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.casualdatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:casual_management_system_mdi.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:casual_management_system_mdi.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:casual_management_system_mdi.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:casual_management_system_mdi.My.Resources.Resources._150311140216_kenya_flowers_4_super_169">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:casual_management_system_mdi.My.Resources.Resources._89332_oserianlogoflowerweb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
